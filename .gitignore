@@ -1,2 +1,15 @@
 
 *.tfrecord
+AudioSet/.DS_Store
+AudioSet/features.tar
+AudioSet/features_eu/.DS_Store
+*.wav
+*.wav
+*.wav
+AudioSet_WAV_files/.DS_Store
+AudioSet_WAV_files/Coughs/.DS_Store
+AudioSet_WAV_files/Speech/.DS_Store
+my_WAV_files/.DS_Store
+my_WAV_files/Cducer_tests1/.DS_Store
+my_WAV_files/DPA_stethescope_tests1/.DS_Store
+Untrimmed_AudioSet_WAV_files/.DS_Store

@@ -17,3 +17,7 @@ Untrimmed_AudioSet_WAV_files/.DS_Store
 *.xml
 WAV_files/.DS_Store
 WAV_files/Cducer_tests1/.DS_Store
+AudioSet/unbalanced_train_segments.csv
+AudioSet/eval_segments.csv
+AudioSet/class_labels_indices.csv
+AudioSet/balanced_train_segments.csv

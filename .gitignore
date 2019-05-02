@@ -13,3 +13,7 @@ my_WAV_files/.DS_Store
 my_WAV_files/Cducer_tests1/.DS_Store
 my_WAV_files/DPA_stethescope_tests1/.DS_Store
 Untrimmed_AudioSet_WAV_files/.DS_Store
+*.iml
+*.xml
+WAV_files/.DS_Store
+WAV_files/Cducer_tests1/.DS_Store

@@ -12,4 +12,4 @@ It also contains three sets of audio files:
 - my_WAV_files: The audio collected during experiments
 - Audioset_WAV_files: The WAV files downloaded from YouTube to train the model
 
-
+The SolidWorks folder containd the entire Afflo Assembly model.

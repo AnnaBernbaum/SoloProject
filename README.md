@@ -7,9 +7,9 @@ This repository contains Jupyter Notebooks for Anna Bernbaum's final year Solo P
 - Machine Learning: A notebook in which the Google Audioset clips are fed into a model to identify the difference between coughs and speech
 - Signal Analysis: A notebook to analyse the experimental audio data 
 
-It also contains three sets of audio files:
+It also contains two sets of audio files:
 
 - my_WAV_files: The audio collected during experiments
 - Audioset_WAV_files: The WAV files downloaded from YouTube to train the model
 
-The SolidWorks folder containd the entire Afflo Assembly model.
+The SolidWorks folder contains the entire Afflo Assembly model.
